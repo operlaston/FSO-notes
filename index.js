@@ -5,8 +5,6 @@ const app = express()
 const Note = require('./models/note')
 
 const cors = require('cors')
-
-const Note = require('./models/note')
 // middleware functions execute in order that they are used
 
 
